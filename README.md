@@ -1,2 +1,3 @@
 # COMPILESCUE
-link to open:http://127.0.0.1:5500/index.html
+Link to open website:https://raw.githack.com/Ankit08singh/COMPILESCUE/main/index.html
+It is a prototype we can add more feature and make it more attractive.
